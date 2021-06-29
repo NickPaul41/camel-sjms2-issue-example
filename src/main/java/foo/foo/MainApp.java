@@ -1,4 +1,4 @@
-package edu.ucla.mednet.iss;
+package foo.foo;
 
 import org.apache.camel.main.Main;
 

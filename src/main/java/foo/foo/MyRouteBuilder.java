@@ -1,4 +1,4 @@
-package edu.ucla.mednet.iss;
+package foo.foo;
 
 import org.apache.activemq.artemis.jms.client.ActiveMQConnectionFactory;
 import org.apache.camel.builder.RouteBuilder;

@@ -109,7 +109,7 @@
         <version>3.11.0</version>
         <configuration>
           <logClasspath>true</logClasspath>
-          <mainClass>edu.ucla.mednet.iss.MainApp</mainClass>
+          <mainClass>foo.foo.MainApp</mainClass>
         </configuration>
       </plugin>
 
